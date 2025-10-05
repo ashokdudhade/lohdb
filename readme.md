@@ -230,35 +230,6 @@ cargo bench
 - ✅ Change subscription system
 - ✅ Storage engine pluggability
 
-## 📈 Roadmap
-
-### v0.2.0 - Enhanced Features
-- [ ] Compression support (LZ4, Snappy)
-- [ ] Batch operations
-- [ ] Key expiration/TTL
-- [ ] Memory usage optimization
-
-### v0.3.0 - Networking
-- [ ] HTTP REST API
-- [ ] gRPC interface  
-- [ ] Client libraries (Python, JavaScript)
-
-### v0.4.0 - Clustering
-- [ ] Raft consensus protocol
-- [ ] Multi-node replication
-- [ ] Automatic failover
-- [ ] Distributed transactions
-
-### v0.5.0 - Advanced Features
-- [ ] Secondary indexes
-- [ ] Range queries
-- [ ] Transactions with ACID properties
-- [ ] Schema validation
-
-## 🤝 Contributing
-
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
 ### Development Setup
 
 ```bash
@@ -289,13 +260,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with the amazing [Rust](https://www.rust-lang.org/) ecosystem
 - Special thanks to the open source community
 
-## 📞 Support
-
-- 📧 Email: support@lohdb.dev
-- 💬 Discord: [LohDB Community](https://discord.gg/lohdb)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/lohdb/issues)
-- 📖 Docs: [Documentation](https://docs.lohdb.dev)
-
----
 
 **Built with ❤️ in Rust**
